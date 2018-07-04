@@ -50,5 +50,16 @@ namespace OutlineViewWithCheckbox {
             return view;
         }
 
+
+        public override bool ShouldSelectItem(NSOutlineView outlineView, NSObject item) {
+            var animator = outlineView.Animator as NSOutlineView;
+
+            if (outlineView.IsItemExpanded(item))
+                animator.CollapseItem(item, false);
+            else
+                animator.ExpandItem(item, false);
+
+            return false;
+        }
     }
 }

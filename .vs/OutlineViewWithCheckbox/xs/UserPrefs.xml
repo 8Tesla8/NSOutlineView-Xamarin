@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{059B5591-4EA3-4711-98A9-0726D2B8E005}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OutlineViewWithCheckbox/TableDelegate.cs">
+    <Files>
+      <File FileName="OutlineViewWithCheckbox/TableDelegate.cs" Line="63" Column="10" />
+      <File FileName="OutlineViewWithCheckbox/ViewController.cs" Line="40" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OutlineViewWithCheckbox PreferredExecutionTarget="Test1" />
+</Properties>
